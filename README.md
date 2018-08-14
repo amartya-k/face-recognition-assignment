@@ -2,9 +2,9 @@
 This is the given task or assignment for the role of data science intern at absolute face
 
 ## Requirements
-***- Python 3.6
+- Python 3.6
 - OpenCV 3.3.0 or above
-- Numpy 1.14.3 or above***
+- Numpy 1.14.3 or above
 
 ## Main 3 steps of this project:
 1. Gathering the dataset from webcam.(also you can skip it if you have the data already)
