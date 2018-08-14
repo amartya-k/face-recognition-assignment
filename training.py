@@ -65,7 +65,7 @@ def getImagesAndLabels(path):
     return faceSamples,ids
 
 # Getting the faces and IDs
-faces,ids = getImagesAndLabels('dataset')
+faces,ids = getImagesAndLabels('training_data')
 
 # Training the model using the faces and IDs
 recognizer.train(faces, np.array(ids))
